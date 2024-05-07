@@ -8,6 +8,7 @@ function App() {
     <div>
       <Card clientName="teste" descrition="abc" value={100} item="Rosh menta"></Card>
       <Card clientName="teste" descrition="abc" value={100} item="Rosh menta"></Card>
+      <Card clientName="teste" descrition="abc" value={100} item="Rosh menta"></Card>
     </div>
   );
 }
